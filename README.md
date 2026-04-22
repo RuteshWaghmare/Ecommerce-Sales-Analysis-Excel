@@ -75,9 +75,10 @@ Based on the data insights, the following actions are recommended to the busines
 ## 📁 Repository Structure
 ```text
 ├── Data/
-│   ├── raw_dataset.csv             # Original unprocessed data
-│   ├── processed_data.csv          # Cleaned dataset ready for analysis
+│   ├── raw_dataset.csv            # Original unprocessed retail data
+│   └── processed_data.csv         # Cleaned dataset ready for analysis
 ├── Visuals/
-│   ├── Snapshot_of_Dashboard.jpg   # High-res export of the dashboard
-├── Vrinda_Store_Annual_Report.xlsx # Final working Excel file with Pivot tables
-└── README.md                       # Project documentation
+│   └── Snapshot_of_Dashboard.jpg  # Preview for the GitHub landing page
+├── Vrinda_Store_Annual_Report.xlsx # Interactive Excel file (Pivot tables & Slicers)
+├── Vrinda_Store_Final_Analysis.pdf # Professional Executive Report (Stakeholder-ready)
+└── README.md                       # Comprehensive project documentation
